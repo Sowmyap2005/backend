@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+xgboost
+pandas
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+python-dotenv
